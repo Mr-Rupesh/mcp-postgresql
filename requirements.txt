@@ -4,3 +4,4 @@ langgraph
 langchain-mcp-adapters
 langchain-anthropic
 python-dotenv
+langchain-google-genai
